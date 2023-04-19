@@ -1,6 +1,6 @@
 namespace HandsOn.MarketPlace.API
 {
-    public class WeatherForecast
+    public class Order
     {
         public DateTime Date { get; set; }
 
